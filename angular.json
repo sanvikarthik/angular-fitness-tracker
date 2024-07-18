@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "angular-fitness-tracker"
+  "defaultProject": "angular-fitness-tracker",
+  "cli": {
+    "analytics": "d2f7ff85-45e4-4848-bc52-e94ef6faf53f"
+  }
 }
